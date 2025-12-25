@@ -56,9 +56,9 @@
     <td align="center"><b>Create Post</b></td>
   </tr>
   <tr>
-    <td><img src="../redchat/screeshots/login.jpeg" width="250" alt="Login Screen"/></td>
-    <td><img src="../redchat/screeshots/feed.jpeg" width="250" alt="Feed Screen"/></td>
-    <td><img src="../redchat/screeshots/cretepost.png" width="250" alt="Create Post"/></td>
+    <td><img src="./screeshots/login.jpeg" width="250" alt="Login Screen"/></td>
+    <td><img src="./screeshots/feed.jpeg" width="250" alt="Feed Screen"/></td>
+    <td><img src="./screeshots/cretepost.png" width="250" alt="Create Post"/></td>
   </tr>
   <tr>
     <td align="center"><b>Messages List</b></td>
@@ -66,12 +66,11 @@
     <td align="center"><b>Navigation</b></td>
   </tr>
   <tr>
-    <td><img src="../redchat/screeshots/messegfeed.jpeg" width="250" alt="Messages Screen"/></td>
-    <td><img src="../redchat/screeshots/chatting.jpeg" width="250" alt="Chat Screen"/></td>
-    <td><img src="../redchat/screeshots/messege.jpeg" width="250" alt="Navigation"/></td>
+    <td><img src="./screeshots/messegfeed.jpeg" width="250" alt="Messages Screen"/></td>
+    <td><img src="./screeshots/chatting.jpeg" width="250" alt="Chat Screen"/></td>
+    <td><img src="./screeshots/messege.jpeg" width="250" alt="Navigation"/></td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
