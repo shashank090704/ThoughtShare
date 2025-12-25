@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82013093789",
+    "project_id": "hele-903b7",
+    "storage_bucket": "hele-903b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82013093789:android:ec4e65308a2d0ebe103974",
+        "android_client_info": {
+          "package_name": "com.example.redchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhM_-_JVcnemESMQxDeuZHat1JHN8J7DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
