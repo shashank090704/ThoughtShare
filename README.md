@@ -233,7 +233,7 @@ flutter build ipa --release
 
 **Shashank Agrawal**  
 📧 agrawalshashank51@gmail.com  
-🔗 [GitHub](https://github.com/yourusername) • [LinkedIn](https://www.linkedin.com/in/agshashank/)
+🔗 [GitHub](https://github.com/shashank090704) • [LinkedIn](https://www.linkedin.com/in/agshashank/)
 
 ---
 
